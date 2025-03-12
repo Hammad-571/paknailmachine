@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Hammad-571.github.io/paknailmachine",
+  "homepage": "https://hammad-571.github.io/paknailmachine",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
